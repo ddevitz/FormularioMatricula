@@ -23,6 +23,6 @@ Formulário de matrícula é uma aplicação web. Esse projeto é desenvolvido n
 
 ![Screenshot](assets/images/screenshot-01.JPG)
 ![Screenshot](assets/images/screenshot-02.JPG)
-![Screenshot](assets/images/screenshot-04.JPG)
+![Screenshot](assets/images/screenshot-03.JPG)
 
 
